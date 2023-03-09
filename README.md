@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @creed1210
+- 👋 Hi, I’m @creed1010
 - 👀 I’m interested in Python/Django for now. Later I will be moving to AI/Ml.
 - 🌱 I’m currently learning Python/Django. #100daysofcoding
 - 💞️ I’m looking to collaborate on null cause I am noob.
