@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @creed
-- 👀 I’m interested in Python/Django for now. Later I will be moving to AI/Ml.
-- 🌱 I’m currently learning Python/Django. #100daysofcoding
-- 💞️ I’m looking to collaborate on null cause I am noob.
+- 👀 I’m interested in BOOKS
+- 🌱 I’m currently learning to survive #100daysofcoding
+- 💞️ I’m looking to collaborate on null set cause I am invincible.
 - 📫 Read me through LinkedIn at /creedai
 
 <!---
